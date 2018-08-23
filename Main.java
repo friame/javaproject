@@ -4,7 +4,7 @@ public class Main{
 
       for(int i=1;i<=7;i++){
 
-      System.out.println("mevasys..."+i);
+      System.out.println("mevasys.."+i);
        }
     }
 }
