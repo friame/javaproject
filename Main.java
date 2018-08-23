@@ -1,17 +1,10 @@
-public class Main {
+public class Mevasys{
 
-    public static void main(String[] args) {
-        System.out.println("Mevasys");
+   public static void main(String[] args){
+
+      for(int i=1;i<=5;i++){
+
+      System.out.println("mevasys..."+i);
+       }
     }
 }
-
-///public class Mevasys{
-
-   // public static void main(String[] args){
-
-     //   for(int i=1;i<=5;i++){
-
-    //        System.out.println("mevasys..."+i);
-       // }
-  //  }
-//}
